@@ -10,7 +10,7 @@
 
 - collaborative filtering (user-based / item-based)
 
-  * query processing
+  * query processing(inverted index)
   * utility matrix
   * euclidian and cosine similarity
   * hierarchical clustering
