@@ -1,0 +1,18 @@
+HW3 ADM
+
+collaborative_filtering     ---- (user-based and item-based)+clustering ----
+collaborative_filtering/clustering
+
+content_based (user-based and item-based)
+content_based/inverted_index
+
+online                      ---- libraries+script ----
+
+preprocess
+
+rmse                        ---- for collaborative filtering ----
+rmse/DIFFERENT_APPROACH     ---- only clustering ----
+rmse/RMSE_ITEM_ITEMS        ---- item-based+clustering ----
+rmse/RMSE_ITEM_USERS        ---- user-based+clustering ----
+
+svd                         ---- rmse_svd ----
