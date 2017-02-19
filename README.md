@@ -6,7 +6,6 @@
 
   * preprocessing (using Pandas and NLTK)
   * feature extraction
-  * vector space model
   * similarity measures 
 
 - collaborative filtering (user-based / item-based)
