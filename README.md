@@ -6,22 +6,24 @@
 
   * preprocessing (using Pandas and NLTK)
   * feature extraction
-  * similarity 
+  * vector space model
+  * similarity measures 
 
 - collaborative filtering (user-based / item-based)
 
   * query processing(inverted index)
   * utility matrix
-  * euclidian and cosine similarity
+  * k-nearest neighbors 
   * hierarchical clustering
+    * dimensionality reduction
   * root-mean-square error
-  * K-fold cross-validation
+    * Kfold cross-validation
 
 - singular value decomposition approach
   
   * matrix factorization
   * optimization problem (Conjugate gradient method)
-  * root-mean-square error
+  * rmse
   
 - TO DO ----> graph approach
   
