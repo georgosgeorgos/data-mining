@@ -1,6 +1,6 @@
 # what_do_you_recommend?
 
-##recommender systems for books
+## recommender systems for books
 
 - content based (user-based / item-based)
 
