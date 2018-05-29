@@ -1,28 +1,18 @@
-# what_do_you_recommend?
+# DataMining
 
-## recommender systems for books
+* Inverted Index for retrieval and ranking
 
-- content based (user-based / item-based)
+* Recommender Engines for the Book-Crossing Dataset 
+  * Content-Based
+  * Collaborative Filtering (with hierarchical clustering and dimensionality reduction)
+  * SVD approach
 
-  * preprocessing (using Pandas and NLTK)
-  * feature extraction
-  * similarity measures 
+* Evaluation metrics for a search engine (R-precision, modified nDCG) and Fagin's algorithm for Top-k queries retrieval (MG4J & Python) 
 
-- collaborative filtering (user-based / item-based)
+* Recommendation Systems for movies using a personalized PageRank algorithm
 
-  * query processing(inverted index)
-  * utility matrix
-  * k-nearest neighbors 
-  * hierarchical clustering
-    * dimensionality reduction
-  * root-mean-square error
-    * Kfold cross-validation
+* Classifiers (spam/no-spam) using k-NN & SVM with RBF kernel 
 
-- singular value decomposition approach
-  
-  * matrix factorization
-  * optimization problem (Conjugate gradient method)
-  * rmse
-  
-- TO DO ----> graph approach
-  
+* Web Crawler with priority for pages with the highest partial PageRank
+
+* Toy Lucene search engine
