@@ -1,0 +1,6 @@
+[submodule "webCrawler"]
+	path = webCrawler
+	url = https://github.com/georgosgeorgos/webCrawler
+[submodule "inverted_recipes"]
+	path = inverted_recipes
+	url = https://github.com/georgosgeorgos/inverted_recipes
