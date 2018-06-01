@@ -16,3 +16,6 @@
 * Web Crawler with priority for pages with the highest partial PageRank
 
 * Toy Lucene search engine
+
+
+![](https://github.com/georgosgeorgos/DataMining/blob/master/InformationRetrieval/comparison.jpg)
