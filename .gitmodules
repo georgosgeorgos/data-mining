@@ -4,3 +4,6 @@
 [submodule "inverted_recipes"]
 	path = inverted_recipes
 	url = https://github.com/georgosgeorgos/inverted_recipes
+[submodule "WhatDoYouRecommend"]
+	path = WhatDoYouRecommend
+	url = https://github.com/georgosgeorgos/WhatDoYouRecommend
